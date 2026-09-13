@@ -55,7 +55,7 @@ Overview of of various Prediciton Markets along with selected reading, threads, 
 - [Polymarket Trader](https://github.com/elielieli909/polymarket-marketmaking)
 - [Manifold Market Maker](https://github.com/manifoldmarkets/market-maker)
 - [Manifold Market Maker that uses OpenAI to answer questions](https://github.com/neverix/nevbot)
-- [Homerun](https://github.com/braedonsaunders/homerun) - Prediction-market desk: odds, books, and bots in one place
+- [Homerun](https://github.com/braedonsaunders/homerun) - Open-source prediction-market trading platform for Polymarket and Kalshi (strategies, backtest, paper/live)
 
 ## Lists
 - [0xperp](https://twitter.com/i/lists/1684720466500431872?s=20)
